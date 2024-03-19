@@ -22,12 +22,6 @@ https://rftv.wtf/tp/tplay.mpd?contentID=608
 https://rftv.wtf/tp/tplay.mpd?contentID=380
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/slingtv.php?contentID=561&key
-#EXTINF:-1 tvg-id="380" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png" group-title="Tami",Sun Music HD
-https://rftv.wtf/tp/slingtv.mpd?contentID=561
-
-
 #EXTINF: -1 tvg-id="496" tvg-chno="ts511" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11954-j9lu45o8-v1/imageContent-11954-j9lu45o8-m1.png" group-title="Tamil", Sun Music HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155881&extension=ts
 https://iamranapk-com-wcc9.spidy.online/JTBExRANAPK/play.m3u8?id=994
@@ -78,8 +72,12 @@ http://xtv.ooo:8080/359052742/470428329/244594
 #EXTINF: -1 tvg-id="ts345" tvg-chno="71" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11479-j9jr9a8o-v1/imageContent-11479-j9jr9a8o-m1.png" group-title="Kids", Hungama
 http://103.131.214.129:9985/stream/channelid/387666878.ts?ticket=47008A6FE90C547283C25473F330A1A40EA2147F&profile=pass
 
-#EXTINF: -1 tvg-id="496" tvg-chno="ts511" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11954-j9lu45o8-v1/imageContent-11954-j9lu45o8-m1.png" group-title="Music", Sun Music HD
-http://xtv.ooo:8080/359052742/470428329/244554
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/slingtv.php?contentID=561&key
+#EXTINF:-1 tvg-id="380" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11954-j9lu45o8-v1/imageContent-11954-j9lu45o8-m1.png" group-title="Tami#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/slingtv.php?contentID=561&key",Sun Music HD
+https://rftv.wtf/tp/slingtv.mpd?contentID=561
+
 
 #EXTINF: -1 tvg-id="ts914" tvg-chno="3" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62861-kpdll0iw-v2/imageContent-62861-kpdll0iw-m3.png" group-title="Sports", Sony Sports Ten 4
 http://xtv.ooo:8080/359052742/470428329/167595
