@@ -1,6 +1,6 @@
 <html>
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
-#EXTM3U x-tvg-url="https://avkb.short.gy/jepg.xml.gz"
+
 
 #EXTINF:-1 tvg-id="ts560" group-title="TATA PLAY ▶ |  Movies" tvg-name="Star Movies HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12086-j9od8wxc-v1/imageContent-12086-j9od8wxc-m1.png",Star Movies HD
 http://103.174.195.4:8000/play/a00i
