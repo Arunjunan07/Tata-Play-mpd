@@ -57,165 +57,133 @@ http://103.131.214.129:9985/stream/channelid/387666878.ts?ticket=47008A6FE90C547
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=496&key
 #EXTINF:-1 tvg-id="ts496" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="TATA PLAY ▶ |  Regional Tamil",Star Vijay HD
-https://tp.snehiptv-s5.workers.dev/496.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=496
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=474&key
 #EXTINF:-1 tvg-id="ts474" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png" group-title="TATA PLAY ▶ |  Regional Tamil",Sun Life
-https://tp.snehiptv-s5.workers.dev/474.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=474
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=608&key
 #EXTINF:-1 tvg-id="ts608" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png" group-title="TATA PLAY ▶ |  Regional Tamil",Zee Tamil HD
-https://tp.snehiptv-s7.workers.dev/608.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=608
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=674&key
 #EXTINF:-1 tvg-id="ts674" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG" group-title="TATA PLAY ▶ |  Regional Tamil",Colors Tamil HD
-https://tp.snehiptv-s4.workers.dev/674.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=674
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=418&key
 #EXTINF:-1 tvg-id="ts418" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21152-je6orzfk-v1/imageContent-21152-je6orzfk-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Colors Tamil
-https://tp.snehiptv-s7.workers.dev/418.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=418
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=439&key
 #EXTINF:-1 tvg-id="ts439" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11700-j9ksbotk-v1/imageContent-11700-j9ksbotk-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Raj TV
-https://tp.snehiptv-s2.workers.dev/439.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=439
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=426&key
 #EXTINF:-1 tvg-id="ts426" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11679-j9khnqag-v1/imageContent-11679-j9khnqag-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Raj Digital Plus
-https://tp.snehiptv-s8.workers.dev/426.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=426
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=37&key
 #EXTINF:-1 tvg-id="ts37" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-111-j5fl5xo8-v1/imageContent-111-j5fl5xo8-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Mega TV
-https://tp.snehiptv-s1.workers.dev/37.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=37
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=200&key
 #EXTINF:-1 tvg-id="ts200" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Kalaignar TV
-https://tp.snehiptv-s3.workers.dev/200.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=200
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=99&key
 #EXTINF:-1 tvg-id="ts99" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44904-jzu8ri4o-v1/imageContent-44904-jzu8ri4o-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",D Tamil
-https://tp.snehiptv-s4.workers.dev/99.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=99
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=708&key
 #EXTINF:-1 tvg-id="ts708" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png" group-title="TATA PLAY ▶ |  Regional Tamil",Jaya TV HD
-https://tp.snehiptv-s2.workers.dev/708.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=708
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=797&key
 #EXTINF:-1 tvg-id="ts797" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49016-k5lx1za0-v2/imageContent-49016-k5lx1za0-m2.png" group-title="TATA PLAY ▶ |  Movies",Zee Thirai
-https://tp.snehiptv-s5.workers.dev/797.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=797
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=392&key
 #EXTINF:-1 tvg-id="ts392" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11565-j9jv0np4-v1/imageContent-11565-j9jv0np4-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Makkal TV
-https://tp.snehiptv-s4.workers.dev/392.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=392
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=380&key
 #EXTINF:-1 tvg-id="ts380" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",KTV HD
-https://tp.snehiptv-s6.workers.dev/380.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=380
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=201&key
 #EXTINF:-1 tvg-id="ts201" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-816-j5m8dqd4-v1/imageContent-816-j5m8dqd4-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",J Movies
-https://tp.snehiptv-s6.workers.dev/201.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=201
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=659&key
 #EXTINF:-1 tvg-id="ts659" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31187-jldgeg1k-v2/imageContent-31187-jldgeg1k-m2.png" group-title="TATA PLAY ▶ |  Regional Tamil",Vendhar TV
-https://tp.snehiptv-s6.workers.dev/659.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=659
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=1182&key
 #EXTINF:-1 tvg-id="ts1182" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZETIHD_Thumbnail-v2/ZETIHD_Thumbnail.png" group-title="TATA PLAY ▶ |  Regional Tamil",Zee Thirai HD
-https://tp.snehiptv-s1.workers.dev/1182.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=1182
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=58&key
 #EXTINF:-1 tvg-id="ts58" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-192-j5fsr3s0-v1/imageContent-192-j5fsr3s0-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",News18 Tamil Nadu
-https://tp.snehiptv-s7.workers.dev/58.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=58
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=509&key
 #EXTINF:-1 tvg-id="ts509" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11942-j9lthi34-v1/imageContent-11942-j9lthi34-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Polimer News
-https://tp.snehiptv-s1.workers.dev/509.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=509
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=391&key
 #EXTINF:-1 tvg-id="ts391" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAMUR_Thumbnail-v2/MAMUR_Thumbnail.png" group-title="TATA PLAY ▶ |  Regional Tamil",MalaiMurasu Seithigal
-https://tp.snehiptv-s8.workers.dev/391.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=391
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=44&key
 #EXTINF:-1 tvg-id="ts44" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-126-j5fnf4ig-v2/imageContent-126-j5fnf4ig-m2.png" group-title="TATA PLAY ▶ |  Regional Tamil",Seithigal TV
-https://tp.snehiptv-s3.workers.dev/44.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=44
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=525&key
 #EXTINF:-1 tvg-id="ts525" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12002-j9nrtf08-v2/imageContent-12002-j9nrtf08-m2.png" group-title="TATA PLAY ▶ |  Regional Tamil",Raj News Tamil
-https://tp.snehiptv-s1.workers.dev/525.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=525
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=455&key
 #EXTINF:-1 tvg-id="ts455" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11764-j9kwqj6o-v1/imageContent-11764-j9kwqj6o-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Sathiyam TV
-https://tp.snehiptv-s1.workers.dev/455.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=455
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=400&key
 #EXTINF:-1 tvg-id="ts400" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11583-j9jype8w-v3/imageContent-11583-j9jype8w-m3.png" group-title="TATA PLAY ▶ |  Regional Tamil",Mega Musiq
-https://tp.snehiptv-s7.workers.dev/400.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=411&key
-#EXTINF:-1 tvg-id="ts411" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11616-j9k04eo0-v1/imageContent-11616-j9k04eo0-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Murasu TV
-https://tp.snehiptv-s5.workers.dev/411.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=434&key
-#EXTINF:-1 tvg-id="ts434" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11712-j9kt9fbs-v2/imageContent-11712-j9kt9fbs-m2.png" group-title="TATA PLAY ▶ |  Regional Tamil",Jothi TV
-https://tp.snehiptv-s6.workers.dev/434.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=282&key
-#EXTINF:-1 tvg-id="ts282" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11230-j9icx1i0-v1/imageContent-11230-j9icx1i0-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Angel TV
-https://tp.snehiptv-s8.workers.dev/282.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=390&key
-#EXTINF:-1 tvg-id="ts390" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11562-j9juzmns-v1/imageContent-11562-j9juzmns-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Madha TV
-https://tp.snehiptv-s7.workers.dev/390.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=400
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=647&key
 #EXTINF:-1 tvg-id="ts647" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24578-jgotgry0-v1/imageContent-24578-jgotgry0-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Isaiaruvi
-https://tp.snehiptv-s4.workers.dev/647.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=647
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=272&key
 #EXTINF:-1 tvg-id="ts272" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11188-j9i480zc-v1/imageContent-11188-j9i480zc-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Polimer TV
-https://tp.snehiptv-s2.workers.dev/272.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=272
 
 #EXTINF:-1 tvg-id="ts1284" group-title="TATA PLAY ▶ |  Regional Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SANPLTV_Thumbnail-v1/SANPLTV_Thumbnail.png",Sana Plus
 https://cable74tataplay.akamaized.net/dash/sanaplus.mpd
@@ -226,221 +194,185 @@ https://cable75tataplay.akamaized.net/dash/sanatv.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=499&key
 #EXTINF:-1 tvg-id="ts499" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11900-j9l4vygg-v1/imageContent-11900-j9l4vygg-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Vasanth TV
-https://tp.snehiptv-s1.workers.dev/499.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=499
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=611&key
 #EXTINF:-1 tvg-id="ts611" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12244-j9qq7k1c-v1/imageContent-12244-j9qq7k1c-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Sirippoli
-https://tp.snehiptv-s7.workers.dev/611.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=611
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=524&key
 #EXTINF:-1 tvg-id="ts524" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11966-j9luich4-v1/imageContent-11966-j9luich4-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Thanthi TV
-https://tp.snehiptv-s1.workers.dev/524.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=524
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=220&key
 #EXTINF:-1 tvg-id="ts220" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-882-j5mdrg4o-v1/imageContent-882-j5mdrg4o-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Puthiya Thalaimurai
-https://tp.snehiptv-s3.workers.dev/220.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=220
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=198&key
 #EXTINF:-1 tvg-id="ts198" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-810-j5m84h14-v1/imageContent-810-j5m84h14-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Jaya Plus
-https://tp.snehiptv-s4.workers.dev/198.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=198
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=199&key
 #EXTINF:-1 tvg-id="ts199" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-807-j5m7zoyo-v1/imageContent-807-j5m7zoyo-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Jaya Max
-https://tp.snehiptv-s7.workers.dev/199.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=199
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=444&key
 #EXTINF:-1 tvg-id="ts444" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11724-j9kvwnkg-v1/imageContent-11724-j9kvwnkg-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Travelxp Tamil
-https://tp.snehiptv-s5.workers.dev/444.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=444
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=425&key
 #EXTINF:-1 tvg-id="ts425" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11682-j9khxjoo-v1/imageContent-11682-j9khxjoo-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Raj Musix
-https://tp.snehiptv-s2.workers.dev/425.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=425
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=702&key
 #EXTINF:-1 tvg-id="ts702" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-37207-jswmhmpk-v1/imageContent-37207-jswmhmpk-m1.PNG" group-title="TATA PLAY ▶ |  Regional Tamil",News J
-https://tp.snehiptv-s8.workers.dev/702.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=702
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=968&key
 #EXTINF:-1 tvg-id="ts968" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69018-kzo65wi0-v1/imageContent-69018-kzo65wi0-m2.png" group-title="TATA PLAY ▶ |  Regional Tamil",News Tamil 24x7
-https://tp.snehiptv-s8.workers.dev/968.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=408&key
-#EXTINF:-1 tvg-id="ts408" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11622-j9k0845k-v2/imageContent-11622-j9k0845k-m2.png" group-title="TATA PLAY ▶ |  Regional Tamil",Nambikkai TV
-https://tp.snehiptv-s3.workers.dev/408.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=968
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=334&key
 #EXTINF:-1 tvg-id="ts334" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DDTAM_Thumbnail-v1/DDTAM_Thumbnail.png" group-title="TATA PLAY ▶ |  Regional Tamil",DD Tamil
-https://tp.snehiptv-s6.workers.dev/334.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=334
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=562&key
 #EXTINF:-1 tvg-id="ts562" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png" group-title="TATA PLAY ▶ |  Movies",Movies Now HD
-https://tp.snehiptv-s2.workers.dev/562.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=562
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=210&key
 #EXTINF:-1 tvg-id="ts210" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-826-j5m9kx5c-v1/imageContent-826-j5m9kx5c-m1.png" group-title="TATA PLAY ▶ |  Movies",MN+ HD
-https://tp.snehiptv-s7.workers.dev/210.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=210
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=32&key
 #EXTINF:-1 tvg-id="ts32" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="TATA PLAY ▶ |  Movies",SONY PIX HD
-https://tp.snehiptv-s2.workers.dev/32.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=32
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=61&key
 #EXTINF:-1 tvg-id="ts61" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="TATA PLAY ▶ |  Movies",Colors Cineplex HD
-https://tp.snehiptv-s1.workers.dev/61.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=61
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=677&key
 #EXTINF:-1 tvg-id="ts677" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34170-jok0hf00-v7/imageContent-34170-jok0hf00-m8.PNG" group-title="TATA PLAY ▶ |  Movies",Tata Play ShortsTV
-https://tp.snehiptv-s6.workers.dev/677.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=677
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=174&key
 #EXTINF:-1 tvg-id="ts174" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-751-j5l5kb9k-v3/imageContent-751-j5l5kb9k-m3.png" group-title="TATA PLAY ▶ |  Movies",Romedy Now
-https://tp.snehiptv-s1.workers.dev/174.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=174
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=599&key
 #EXTINF:-1 tvg-id="ts599" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12216-j9qm5hjs-v2/imageContent-12216-j9qm5hjs-m2.png" group-title="TATA PLAY ▶ |  Movies",MNX HD
-https://tp.snehiptv-s2.workers.dev/599.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=599
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=666&key
 #EXTINF:-1 tvg-id="ts666" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31419-jmb48u74-v3/imageContent-31419-jmb48u74-m4.png" group-title="TATA PLAY ▶ |  Movies",Tata Play Theatre HD
-https://tp.snehiptv-s7.workers.dev/666.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=666
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=789&key
 #EXTINF:-1 tvg-id="ts789" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48748-k4jbpl00-v2/imageContent-48748-k4jbpl00-m3.png" group-title="TATA PLAY ▶ |  Movies",Tata Play Hollywood Local
-https://tp.snehiptv-s4.workers.dev/789.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=789
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=1260&key
 #EXTINF:-1 tvg-id="ts1260" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPTAMCL_Thumbnail-v1/TPTAMCL_Thumbnail.png" group-title="TATA PLAY ▶ |  Movies",Tata Play Tamil Classics
-https://tp.snehiptv-s7.workers.dev/1260.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=1260
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=187&key
 #EXTINF:-1 tvg-id="ts187" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1577-j5xrm7fc-v1/imageContent-1577-j5xrm7fc-m1.png" group-title="TATA PLAY ▶ |  Entertainment",Colors Infinity HD
-https://tp.snehiptv-s8.workers.dev/187.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=187
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=307&key
 #EXTINF:-1 tvg-id="ts307" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11296-j9j5ux7s-v2/imageContent-11296-j9j5ux7s-m3.png" group-title="TATA PLAY ▶ |  Entertainment",Comedy Central HD
-https://tp.snehiptv-s2.workers.dev/307.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=307
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=808&key
 #EXTINF:-1 tvg-id="ts808" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49809-k7454ppk-v3/imageContent-49809-k7454ppk-m6.png" group-title="TATA PLAY ▶ |  Entertainment",Tata Play Hits
-https://tp.snehiptv-s6.workers.dev/808.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=808
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=811&key
 #EXTINF:-1 tvg-id="ts811" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52369-k7e829a0-v5/imageContent-52369-k7e829a0-m5.png" group-title="TATA PLAY ▶ |  Entertainment",Tata Play Adbhut Kahaniyan
-https://tp.snehiptv-s2.workers.dev/811.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=811
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=943&key
 #EXTINF:-1 tvg-id="ts943" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65443-kty2tkwo-v2/imageContent-65443-kty2tkwo-m2.png" group-title="TATA PLAY ▶ |  Entertainment",Tata Play Videshi Kahaniyan
-https://tp.snehiptv-s7.workers.dev/943.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=943
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=78&key
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="TATA PLAY ▶ |  Sports",Star Sports 1 HD
-https://tp.snehiptv-s4.workers.dev/78.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=78
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=235&key
 #EXTINF:-1 tvg-id="ts235" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="TATA PLAY ▶ |  Sports",Star Sports 2 HD
-https://tp.snehiptv-s6.workers.dev/235.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=235
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=246&key
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="TATA PLAY ▶ |  Sports",Star Sports Select 1 HD
-https://tp.snehiptv-s1.workers.dev/246.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=246
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=812&key
 #EXTINF:-1 tvg-id="ts812" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png" group-title="TATA PLAY ▶ |  Sports",Eurosport HD
-https://tp.snehiptv-s4.workers.dev/812.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=812
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=463&key
 #EXTINF:-1 tvg-id="ts463" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="TATA PLAY ▶ |  Sports",Star Sports Select 2 HD
-https://tp.snehiptv-s2.workers.dev/463.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=463
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=1033&key
 #EXTINF:-1 tvg-id="ts1033" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" group-title="TATA PLAY ▶ |  Sports",Sports 18 - 1 HD
-https://tp.snehiptv-s4.workers.dev/1033.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=1033
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=223&key
 #EXTINF:-1 tvg-id="ts223" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="TATA PLAY ▶ |  Sports",DD Sports
-https://tp.snehiptv-s1.workers.dev/223.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=223
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=81&key
 #EXTINF:-1 tvg-id="ts81" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="TATA PLAY ▶ |  Sports",SONY SPORTS TEN 1 HD
-https://tp.snehiptv-s1.workers.dev/81.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=81
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=462&key
 #EXTINF:-1 tvg-id="ts462" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="TATA PLAY ▶ |  Sports",SONY SPORTS TEN 2 HD
-https://tp.snehiptv-s5.workers.dev/462.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=462
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=464&key
 #EXTINF:-1 tvg-id="ts464" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="TATA PLAY ▶ |  Sports",SONY SPORTS TEN 3 HD
-https://tp.snehiptv-s7.workers.dev/464.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=464
 
 #EXTINF: -1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="TATA PLAY ▶ |  Sports",SONY SPORTS TEN 4 HD 
@@ -449,7 +381,6 @@ https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=35&key
 #EXTINF:-1 tvg-id="ts35" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="TATA PLAY ▶ |  Sports",SONY SPORTS TEN 5 HD
-https://tp.snehiptv-s6.workers.dev/35.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=35
 
 
@@ -458,25 +389,21 @@ https://rftv.wtf/tp/tplay.mpd?contentID=35
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=114&key
 #EXTINF:-1 tvg-id="ts114" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="TATA PLAY ▶ |  Kids",Disney
-https://tp.snehiptv-s3.workers.dev/114.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=114
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=587&key
 #EXTINF:-1 tvg-id="ts587" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="TATA PLAY ▶ |  Kids",Super Hungama
-https://tp.snehiptv-s8.workers.dev/587.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=587
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=433&key
 #EXTINF:-1 tvg-id="ts433" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png" group-title="TATA PLAY ▶ |  Kids",Nick HD+
-https://tp.snehiptv-s8.workers.dev/433.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=433
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=127&key
 #EXTINF:-1 tvg-id="ts127" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png" group-title="TATA PLAY ▶ |  Kids",Sonic Nickelodeon
-https://tp.snehiptv-s1.workers.dev/127.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=127
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -487,25 +414,21 @@ https://rftv.wtf/tp/tplay.mpd?contentID=118
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=239&key
 #EXTINF:-1 tvg-id="ts239" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="TATA PLAY ▶ |  Kids",Pogo
-https://tp.snehiptv-s4.workers.dev/239.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=239
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=119&key
 #EXTINF:-1 tvg-id="ts119" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" group-title="TATA PLAY ▶ |  Kids",Discovery Kids
-https://tp.snehiptv-s8.workers.dev/119.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=119
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=238&key
 #EXTINF:-1 tvg-id="ts238" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="TATA PLAY ▶ |  Kids",Cartoon Network
-https://tp.snehiptv-s4.workers.dev/238.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=238
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=138&key
 #EXTINF:-1 tvg-id="ts138" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png" group-title="TATA PLAY ▶ |  Kids",Nick
-https://tp.snehiptv-s1.workers.dev/138.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=138
 
 
@@ -513,31 +436,26 @@ https://rftv.wtf/tp/tplay.mpd?contentID=138
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=816&key
 #EXTINF:-1 tvg-id="ts816" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52868-k9af4lxs-v1/imageContent-52868-k9af4lxs-m1.png" group-title="TATA PLAY ▶ |  Kids",CBeeBies
-https://tp.snehiptv-s5.workers.dev/816.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=816
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=45&key
 #EXTINF:-1 tvg-id="ts45" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="TATA PLAY ▶ |  Kids",SONY YAY!
-https://tp.snehiptv-s3.workers.dev/45.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=45
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=681&key
 #EXTINF:-1 tvg-id="ts681" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png" group-title="TATA PLAY ▶ |  Kids",Cartoon Network HD+
-https://tp.snehiptv-s5.workers.dev/681.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=681
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=144&key
 #EXTINF:-1 tvg-id="ts144" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png" group-title="TATA PLAY ▶ |  Kids",Disney Junior
-https://tp.snehiptv-s5.workers.dev/144.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=144
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=995&key
 #EXTINF:-1 tvg-id="ts995" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSBEN_Thumbnail-v5/TONSBEN_Thumbnail.png" group-title="TATA PLAY ▶ |  Kids",Tata Play Toons+
-https://tp.snehiptv-s7.workers.dev/995.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=995
 
 
@@ -545,55 +463,46 @@ https://rftv.wtf/tp/tplay.mpd?contentID=995
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=605&key
 #EXTINF:-1 tvg-id="ts605" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="TATA PLAY ▶ |  Knowledge",National Geographic HD
-https://tp.snehiptv-s6.workers.dev/605.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=605
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=413&key
 #EXTINF:-1 tvg-id="ts413" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="TATA PLAY ▶ |  Knowledge",Nat Geo Wild HD
-https://tp.snehiptv-s4.workers.dev/413.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=413
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=172&key
 #EXTINF:-1 tvg-id="ts172" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-745-j5l54bnc-v2/imageContent-745-j5l54bnc-m2.png" group-title="TATA PLAY ▶ |  Knowledge",History TV18
-https://tp.snehiptv-s5.workers.dev/172.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=172
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=460&key
 #EXTINF:-1 tvg-id="ts460" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="TATA PLAY ▶ |  Knowledge",SONY BBC Earth HD
-https://tp.snehiptv-s3.workers.dev/460.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=460
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=113&key
 #EXTINF:-1 tvg-id="ts113" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="TATA PLAY ▶ |  Knowledge",Discovery Science
-https://tp.snehiptv-s7.workers.dev/113.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=113
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=616&key
 #EXTINF:-1 tvg-id="ts616" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="TATA PLAY ▶ |  Knowledge",History TV18 HD
-https://tp.snehiptv-s4.workers.dev/616.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=616
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=341&key
 #EXTINF:-1 tvg-id="ts341" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="TATA PLAY ▶ |  Knowledge",Discovery HD World
-https://tp.snehiptv-s1.workers.dev/341.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=341
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=287&key
 #EXTINF:-1 tvg-id="ts287" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" group-title="TATA PLAY ▶ |  Knowledge",Animal Planet HD World
-https://tp.snehiptv-s6.workers.dev/287.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=287
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=136&key
 #EXTINF:-1 tvg-id="ts136" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42020-jxb7qjw8-v1/imageContent-42020-jxb7qjw8-m1.png" group-title="TATA PLAY ▶ |  Knowledge",GOOD TiMES
-https://tp.snehiptv-s7.workers.dev/136.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=136
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -604,7 +513,6 @@ https://rftv.wtf/tp/tplay.mpd?contentID=480
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=117&key
 #EXTINF:-1 tvg-id="ts117" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-384-j5jpj9hc-v1/imageContent-384-j5jpj9hc-m1.png" group-title="TATA PLAY ▶ |  Knowledge",Food Food
-https://tp.snehiptv-s2.workers.dev/117.mpd
 https://rftv.wtf/tp/tplay.mpd?contentID=117
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
