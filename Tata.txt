@@ -3,14 +3,14 @@
 
 
 #EXTINF:-1 tvg-id="ts560" group-title="TATA PLAY ▶ |  Movies" tvg-name="Star Movies HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12086-j9od8wxc-v1/imageContent-12086-j9od8wxc-m1.png",Star Movies HD
-http://103.174.195.4:8000/play/a00i
+http://xtv.ooo:8080/359052742/470428329/66213
 
 #EXTINF: -1 tvg-id="ts1067" tvg-chno="56" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SS1TAMHD_Thumbnail-v1/SS1TAMHD_Thumbnail.png" group-title="TATA PLAY ▶ |  Sports", Star Sports 1 Tamil HD
 http://xtv.ooo:8080/359052742/470428329/167574
 
 
 #EXTINF: -1 tvg-id="496" tvg-chno="ts511" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11954-j9lu45o8-v1/imageContent-11954-j9lu45o8-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil", Sun Music HD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155881&extension=ts
+http://filex.tv:8080/wajahat007/1234/279802
 
 #EXTINF: -1 tvg-id="ts663" tvg-chno="52" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31376-jlxbt6kg-v2/imageContent-31376-jlxbt6kg-m2.png" group-title="TATA PLAY ▶ |  Movies", Tata Play Tamil Cinema
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155883&extension=ts
@@ -19,10 +19,10 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155883&exten
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155892&extension=ts
 
 #EXTINF: -1 tvg-id="ts275" tvg-chno="ts275" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/VISUHD_Thumbnail-v1/VISUHD_Thumbnail.png" group-title="TATA PLAY ▶ |  Regional Tamil", Vijay Super HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1a:79:E6:C9:87&stream=155875&extension=ts&play_token=aCyqqVPP5M
+http://tv.cloudcdn.me:80/live.ts?channelId=43518&uid=14505&deviceMac=00:1A:79:A7:53:75
 
 #EXTINF: -1 tvg-id="ts906" tvg-chno="ts906" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73570-l91cvyrk-v1/imageContent-73570-l91cvyrk-m2.png" group-title="TATA PLAY ▶ |  Regional Tamil", Vijay Takkar
-http://103.178.58.10:8000/play/a003/index.m3u8
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/23869.ts
 
 #EXTINF: -1 tvg-chno="ts1166" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CHIT_Thumbnail-v1/CHIT_Thumbnail.png" group-title="TATA PLAY ▶ |  Regional Tamil", Chithiram TV
 https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/blacksheep/live1/chunks.m3u8
@@ -38,7 +38,7 @@ http://xtv.ooo:8080/359052742/470428329/66315
 http://xtv.ooo:8080/359052742/470428329/66228
 
 #EXTINF: -1 tvg-id="526" tvg-chno="38" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11927-j9l5h5ko-v2/imageContent-11927-j9l5h5ko-m2.png" group-title="TATA PLAY ▶ |  Entertainment", Zee Cafe HD
-http://103.174.195.4:8000/play/a00g
+http://xtv.ooo:8080/359052742/470428329/66287
 
 #EXTINF: -1 tvg-chno="40" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11162-j99oso8o-v2/imageContent-11162-j99oso8o-m1.png" group-title="TATA PLAY ▶ |  Entertainment", Disney International HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=1110627&extension=ts
