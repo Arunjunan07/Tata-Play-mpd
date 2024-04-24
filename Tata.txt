@@ -75,11 +75,6 @@ https://rftv.wtf/tp/tplay.mpd?contentID=608
 https://rftv.wtf/tp/tplay.mpd?contentID=674
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=418&key
-#EXTINF:-1 tvg-id="ts418" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21152-je6orzfk-v1/imageContent-21152-je6orzfk-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Colors Tamil
-https://rftv.wtf/tp/tplay.mpd?contentID=418
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=439&key
 #EXTINF:-1 tvg-id="ts439" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11700-j9ksbotk-v1/imageContent-11700-j9ksbotk-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Raj TV
 https://rftv.wtf/tp/tplay.mpd?contentID=439
@@ -102,7 +97,7 @@ https://rftv.wtf/tp/tplay.mpd?contentID=200
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=99&key
-#EXTINF:-1 tvg-id="ts99" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44904-jzu8ri4o-v1/imageContent-44904-jzu8ri4o-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",D Tamil
+#EXTINF:-1 tvg-id="ts99" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44904-jzu8ri4o-v1/imageContent-44904-jzu8ri4o-m1.png" group-title="TATA PLAY ▶ |  Knowledge",D Tamil
 https://rftv.wtf/tp/tplay.mpd?contentID=99
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -223,7 +218,7 @@ https://rftv.wtf/tp/tplay.mpd?contentID=199
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=444&key
-#EXTINF:-1 tvg-id="ts444" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11724-j9kvwnkg-v1/imageContent-11724-j9kvwnkg-m1.png" group-title="TATA PLAY ▶ |  Regional Tamil",Travelxp Tamil
+#EXTINF:-1 tvg-id="ts444" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11724-j9kvwnkg-v1/imageContent-11724-j9kvwnkg-m1.png" group-title="TATA PLAY ▶ |  Knowledge",Travelxp Tamil
 https://rftv.wtf/tp/tplay.mpd?contentID=444
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -458,8 +453,6 @@ https://rftv.wtf/tp/tplay.mpd?contentID=144
 #EXTINF:-1 tvg-id="ts995" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSBEN_Thumbnail-v5/TONSBEN_Thumbnail.png" group-title="TATA PLAY ▶ |  Kids",Tata Play Toons+
 https://rftv.wtf/tp/tplay.mpd?contentID=995
 
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=605&key
 #EXTINF:-1 tvg-id="ts605" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="TATA PLAY ▶ |  Knowledge",National Geographic HD
@@ -470,10 +463,6 @@ https://rftv.wtf/tp/tplay.mpd?contentID=605
 #EXTINF:-1 tvg-id="ts413" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="TATA PLAY ▶ |  Knowledge",Nat Geo Wild HD
 https://rftv.wtf/tp/tplay.mpd?contentID=413
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=172&key
-#EXTINF:-1 tvg-id="ts172" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-745-j5l54bnc-v2/imageContent-745-j5l54bnc-m2.png" group-title="TATA PLAY ▶ |  Knowledge",History TV18
-https://rftv.wtf/tp/tplay.mpd?contentID=172
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=460&key
@@ -507,7 +496,7 @@ https://rftv.wtf/tp/tplay.mpd?contentID=136
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=480&key
-#EXTINF:-1 tvg-id=ts480 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11858-j9l1v6k8-v3/imageContent-11858-j9l1v6k8-m4.png" group-title="TATA PLAY ▶ |  Knowledge",TLC HD
+#EXTINF:-1 tvg-id="ts480" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11858-j9l1v6k8-v3/imageContent-11858-j9l1v6k8-m4.png" group-title="TATA PLAY ▶ |  Knowledge",TLC HD
 https://rftv.wtf/tp/tplay.mpd?contentID=480
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -517,43 +506,46 @@ https://rftv.wtf/tp/tplay.mpd?contentID=117
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=367&key
-#EXTINF:-1 tvg-id=ts367 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/FOXHD_Thumbnail-v2/FOXHD_Thumbnail.png" group-title="TATA PLAY ▶ |  Knowledge",Star Life HD
+#EXTINF:-1 tvg-id="ts367" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/FOXHD_Thumbnail-v2/FOXHD_Thumbnail.png" group-title="TATA PLAY ▶ |  Knowledge",Star Life HD
 https://rftv.wtf/tp/tplay.mpd?contentID=367
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=227&key
-#EXTINF:-1 tvg-id=ts227 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-959-j5mipsnk-v1/imageContent-959-j5mipsnk-m1.png" group-title="TATA PLAY ▶ |  Knowledge",Fashion TV
+#EXTINF:-1 tvg-id="ts227" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-959-j5mipsnk-v1/imageContent-959-j5mipsnk-m1.png" group-title="TATA PLAY ▶ |  Knowledge",Fashion TV
 https://rftv.wtf/tp/tplay.mpd?contentID=227
+
+
+                       _________ JIO TV __________
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=1955&key
-#EXTINF:-1 tvg-id=ts1955 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73664-l98odjh4-v1/imageContent-73664-l98odjh4-m7.png" group-title="JioTV",Foodxp
+#EXTINF:-1 tvg-id="1955" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73664-l98odjh4-v1/imageContent-73664-l98odjh4-m7.png" group-title="JioTV",Foodxp
 https://rftv.wtf/tp/jp.mpd?contentID=1955
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=847&key
-#EXTINF:-1 tvg-id=ts847 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="JioTV",MK TV
+#EXTINF:-1 tvg-id="847" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="JioTV",MK TV
 https://rftv.wtf/tp/jp.mpd?contentID=847
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=845&key
-#EXTINF:-1 tvg-id=ts845 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="JioTV",MK Music
+#EXTINF:-1 tvg-id="845" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="JioTV",MK Music
 https://rftv.wtf/tp/jp.mpd?contentID=845
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=803&key
-#EXTINF:-1 tvg-id=ts803 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="JioTV",Tunes 6
+#EXTINF:-1 tvg-id="803" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="JioTV",Tunes 6
 https://rftv.wtf/tp/jp.mpd?contentID=803
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=796&key
-#EXTINF:-1 tvg-id=ts796 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="JioTV",Peppers TV
+#EXTINF:-1 tvg-id=796 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="JioTV",Peppers TV
 https://rftv.wtf/tp/jp.mpd?contentID=796
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=871&key
-#EXTINF:-1 tvg-id=ts871 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="JioTV",Jio Events HD
+#EXTINF:-1 tvg-id=871 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="JioTV",Jio Events HD
 https://rftv.wtf/tp/jp.mpd?contentID=871
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -563,32 +555,32 @@ https://rftv.wtf/tp/jp.mpd?contentID=1918
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=1430&key
-#EXTINF:-1 tvg-id=ts1430 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="JioTV",Jio KIDS
+#EXTINF:-1 tvg-id="1430" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="JioTV",Jio KIDS
 https://rftv.wtf/tp/jp.mpd?contentID=1430
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=1145&key
-#EXTINF:-1 tvg-id=ts1145 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="JioTV",MTV HD Plus
+#EXTINF:-1 tvg-id="1145" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="JioTV",MTV HD Plus
 https://rftv.wtf/tp/jp.mpd?contentID=1145
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=753&key
-#EXTINF:-1 tvg-id=ts753 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="JioTV",MTV Beats HD
+#EXTINF:-1 tvg-id="753" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="JioTV",MTV Beats HD
 https://rftv.wtf/tp/jp.mpd?contentID=753
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=248&key
-#EXTINF:-1 tvg-id=ts248 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="JioTV",MTV
+#EXTINF:-1 tvg-id="248" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="JioTV",MTV
 https://rftv.wtf/tp/jp.mpd?contentID=248
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=786&key
-#EXTINF:-1 tvg-id=ts786 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="JioTV",Kappa TV
+#EXTINF:-1 tvg-id="786" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="JioTV",Kappa TV
 https://rftv.wtf/tp/jp.mpd?contentID=786
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=2230&key
-#EXTINF:-1 tvg-id=ts2230 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Specials_HD.png" group-title="JioTV",Jio Specials HD
+#EXTINF:-1 tvg-id="2230" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Specials_HD.png" group-title="JioTV",Jio Specials HD
 https://rftv.wtf/tp/jp.mpd?contentID=2230
 
 
