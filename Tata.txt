@@ -201,7 +201,7 @@ https://rftv.wtf/tp/tplay.mpd?contentID=611
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=1322
-#EXTINF:-1 tvg-id="ts1322" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/THANTIO_Thumbnail-v2/THANTIO_Thumbnail.png" group-title="TOXIC | Tamil", Thanthi One
+#EXTINF:-1 tvg-id="ts1322" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/THANTIO_Thumbnail-v2/THANTIO_Thumbnail.png" group-title="TATA PLAY ▶ |  Regional Tamil", Thanthi One
 https://toxicify.pro/peace/kfc/1322.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
